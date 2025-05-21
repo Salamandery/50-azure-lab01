@@ -7,5 +7,6 @@ Nesse laboratório aprendemos como navegar pelo portal da Azure
 - Apresentação da categoria de Rede (Networking), como Bastions, firewall, gateways, etc
 - Categoria de Armazenamento
 - Explicação sobre recursos em visualização prévia
+- Breve inicio da formação AZ900
 
 by Rodolfo M. F. Abreu
